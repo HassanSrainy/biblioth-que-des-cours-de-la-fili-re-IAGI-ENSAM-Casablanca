@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.open-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    width: 40px; /* Largeur du bouton */
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.navbar {
+    width: 0; /* Largeur initiale de la barre de navigation */
+    background-color: #333;
+    padding: 10px 0;
+    overflow-x: hidden; /* Masque le contenu qui dépasse */
+    transition: width 0.3s; /* Ajout de transition pour l'ouverture/fermeture */
+}
+
+.navbar.open {
+    width: 200px; /* Largeur de la barre de navigation lorsqu'elle est ouverte */
+}
+
+.navbar button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    width: 100%; /* Largeur des boutons dans la barre de navigation */
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.navbar button:hover {
+    background-color: #0056b3;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li {
+    margin-bottom: 10px;
+}
+
+.main-content {
+    flex: 1; /* Le contenu principal occupe l'espace restant */
+    padding: 20px;
+    background-color: #f9f9f9;
+}

@@ -1,0 +1,18 @@
+les etudiants sont:
+1 ddddddddd dddddddddd ddddddd
+2 rrrrrrrrrrrr rrrrrrrrrrrr rrrrrrrrrrr
+3 ggggggg ggggggg gggggg
+4 FFFFF FFFFFFFFF CFFFFFFF
+5 GGGGGGG GGGGGGGG GGGGGGGG
+6 FFFFFF FFEFG EEEE
+7 DDDDDDDD QSSSSS SSSSSSS
+9 gggg ggggggg ggggggggg
+12 ffffffff ffffffff fffffff
+13 ffffffffaa ffffffffaa fffffffaa
+14 ffffffff fffffff fffffffffffffffffff
+24 firstname lastname email
+25 oum oum oum
+26 ikram ikram ikram
+28 hass hass hass
+29 ao ao ao
+30 walid  ain dhrq  walidkk
